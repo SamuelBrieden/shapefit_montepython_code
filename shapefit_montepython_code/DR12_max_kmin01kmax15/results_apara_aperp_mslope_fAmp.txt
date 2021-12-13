@@ -1,0 +1,9 @@
+# FS results for 0.01<k<0.15, Samuel Brieden
+0.38 apara 1.073657e+00
+0.38 aperp 1.035073e+00
+0.38 mslope -1.529699e-01
+0.38 fAmp 7.464146e-01
+0.61 apara 9.746350e-01
+0.61 aperp 1.008799e+00
+0.61 mslope -1.064399e-01
+0.61 fAmp 8.298211e-01

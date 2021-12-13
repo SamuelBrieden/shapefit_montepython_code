@@ -1,0 +1,13 @@
+# BOSS BAO+FS DR12 independent z1+z3
+# By Samuel Brieden March 2021
+shapefit_bossdr12_max_kmin01kmax15.data_directory      = data.path['data']
+shapefit_bossdr12_max_kmin01kmax15.data_file           = 'DR12_max_kmin01kmax15/results_apara_aperp_mslope_fAmp.txt'
+shapefit_bossdr12_max_kmin01kmax15.cov_file            = 'DR12_max_kmin01kmax15/covtot_apara_aperp_mslope_fAmp.txt'
+shapefit_bossdr12_max_kmin01kmax15.pkshape_fid_file    = 'DR12_max_kmin01kmax15/pkshape.txt'
+shapefit_bossdr12_max_kmin01kmax15.rs_rescale          = 1.
+shapefit_bossdr12_max_kmin01kmax15.rd_fid_in_Mpc	      = 147.78
+shapefit_bossdr12_max_kmin01kmax15.h_fid	              = 0.676
+shapefit_bossdr12_max_kmin01kmax15.kmpiv	              = 0.03
+shapefit_bossdr12_max_kmin01kmax15.DM_fid_in_Mpc	      = [1530.1563636713013, 2306.9985149703343]
+shapefit_bossdr12_max_kmin01kmax15.H_fid	              = [82.92813452998196, 95.22171072612254]
+shapefit_bossdr12_max_kmin01kmax15.Amp                  = [117.78159701470898, 104.89694828525208]
